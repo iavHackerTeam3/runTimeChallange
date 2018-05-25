@@ -1,0 +1,182 @@
+<map>
+<cross>
+	<id> 1</id>
+	<lat> 79.726427 </lat> <lng> 73.255481 </lng>
+	<network> 3 7 18 </network>
+</cross>
+
+<cross>
+	<id> 2</id>
+	<lat> 79.795589 </lat> <lng> 73.220297 </lng>
+	<network> 5 6 14 26 </network>
+</cross>
+
+<cross>
+	<id> 3</id>
+	<lat> 79.762057 </lat> <lng> 73.255481 </lng>
+	<network> 1 14 19 24 28 </network>
+</cross>
+
+<cross>
+	<id> 4</id>
+	<lat> 79.795589 </lat> <lng> 73.297663 </lng>
+	<network> 6 17 29 </network>
+</cross>
+
+<cross>
+	<id> 5</id>
+	<lat> 79.787636 </lat> <lng> 73.220297 </lng>
+	<network> 2 8 14 25 </network>
+</cross>
+
+<cross>
+	<id> 6</id>
+	<lat> 79.795589 </lat> <lng> 73.255481 </lng>
+	<network> 2 4 8 </network>
+</cross>
+
+<cross>
+	<id> 7</id>
+	<lat> 79.726427 </lat> <lng> 73.220297 </lng>
+	<network> 1 10 14 22 </network>
+</cross>
+
+<cross>
+	<id> 8</id>
+	<lat> 79.787636 </lat> <lng> 73.255481 </lng>
+	<network> 5 6 17 19 </network>
+</cross>
+
+<cross>
+	<id> 9</id>
+	<lat> 79.762057 </lat> <lng> 73.298841 </lng>
+	<network> 13 20 21 </network>
+</cross>
+
+<cross>
+	<id> 10</id>
+	<lat> 79.72816 </lat> <lng> 73.220297 </lng>
+	<network> 7 11 27 </network>
+</cross>
+
+<cross>
+	<id> 11</id>
+	<lat> 79.72816 </lat> <lng> 73.258090 </lng>
+	<network> 10 15 18 </network>
+</cross>
+
+<cross>
+	<id> 12</id>
+	<lat> 79.787636 </lat> <lng> 73.298841 </lng>
+	<network> 17 21 29 </network>
+</cross>
+
+<cross>
+	<id> 13</id>
+	<lat> 79.726427 </lat> <lng> 73.298841 </lng>
+	<network> 9 18 23 </network>
+</cross>
+
+<cross>
+	<id> 14</id>
+	<lat> 79.762057 </lat> <lng> 73.220297 </lng>
+	<network> 3 5 7 24 </network>
+</cross>
+
+<cross>
+	<id> 15</id>
+	<lat> 79.72816 </lat> <lng> 73.297663 </lng>
+	<network> 11 20 23 </network>
+</cross>
+
+<cross>
+	<id> 16</id>
+	<lat> 79.772439 </lat> <lng> 73.23630 </lng>
+	<network> 19 24 25 </network>
+</cross>
+
+<cross>
+	<id> 17</id>
+	<lat> 79.787636 </lat> <lng> 73.297663 </lng>
+	<network> 4 8 12 20 </network>
+</cross>
+
+<cross>
+	<id> 18</id>
+	<lat> 79.726427 </lat> <lng> 73.258090 </lng>
+	<network> 1 11 13 28 </network>
+</cross>
+
+<cross>
+	<id> 19</id>
+	<lat> 79.772439 </lat> <lng> 73.255481 </lng>
+	<network> 3 8 16 30 </network>
+</cross>
+
+<cross>
+	<id> 20</id>
+	<lat> 79.762057 </lat> <lng> 73.297663 </lng>
+	<network> 9 15 17 28 </network>
+</cross>
+
+<cross>
+	<id> 21</id>
+	<lat> 79.772439 </lat> <lng> 73.298841 </lng>
+	<network> 9 12 30 </network>
+</cross>
+
+<cross>
+	<id> 22</id>
+	<lat> 79.726427 </lat> <lng> 73.23630 </lng>
+	<network> 7 24 27 </network>
+</cross>
+
+<cross>
+	<id> 23</id>
+	<lat> 79.72816 </lat> <lng> 73.298841 </lng>
+	<network> 9 13 15 </network>
+</cross>
+
+<cross>
+	<id> 24</id>
+	<lat> 79.762057 </lat> <lng> 73.23630 </lng>
+	<network> 14 16 22 </network>
+</cross>
+
+<cross>
+	<id> 25</id>
+	<lat> 79.787636 </lat> <lng> 73.23630 </lng>
+	<network> 5 16 26 </network>
+</cross>
+
+<cross>
+	<id> 26</id>
+	<lat> 79.795589 </lat> <lng> 73.23630 </lng>
+	<network> 2 25 27 </network>
+</cross>
+
+<cross>
+	<id> 27</id>
+	<lat> 79.72816 </lat> <lng> 73.23630 </lng>
+	<network> 10 22 26 </network>
+</cross>
+
+<cross>
+	<id> 28</id>
+	<lat> 79.762057 </lat> <lng> 73.258090 </lng>
+	<network> 3 18 20 30 </network>
+</cross>
+
+<cross>
+	<id> 29</id>
+	<lat> 79.795589 </lat> <lng> 73.298841 </lng>
+	<network> 4 12 23 </network>
+</cross>
+
+<cross>
+	<id> 30</id>
+	<lat> 79.772439 </lat> <lng> 73.258090 </lng>
+	<network> 16 19 21 28 </network>
+</cross>
+
+</map>
