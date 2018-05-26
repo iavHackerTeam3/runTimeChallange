@@ -1,8 +1,12 @@
 <targets>
-<start>
-	<ts> 19.:12:42 </ts> <lat> 22.435008 </lat> <lng> 26.812548 </lng>
-</start>
-<destination>
-	<ts> 19.:17:02</ts> <lat> 22.426166 </lat> <lng> 26.877610 </lng>
-</destination>
+    <start>
+        <ts>19.:12:42</ts>
+        <lat>22.421333</lat>
+        <lng>26.841466</lng>
+    </start>
+    <destination>
+        <ts>19.:17:02</ts>
+        <lat>22.41822</lat>
+        <lng>26.877610</lng>
+    </destination>
 </targets>

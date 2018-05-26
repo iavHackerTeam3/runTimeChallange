@@ -1,0 +1,166 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/main.cpp
+iostream
+-
+fstream
+-
+utils/tinyxml2.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.h
+model/Target.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.h
+model/Cross.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.h
+model/TargetData.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/TargetData.h
+model/Map.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Map.h
+cerrno
+-
+cstdlib
+-
+cstring
+-
+ctime
+-
+crtdbg.h
+-
+windows.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+vector
+-
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.cpp
+Cross.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.h
+vector
+-
+string
+-
+../utils/tinyxml2.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.h
+Target.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Edge.cpp
+Edge.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Edge.h
+cmath
+-
+algorithm
+-
+functional
+-
+array
+-
+vector
+-
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Edge.h
+utility
+-
+set
+-
+Cross.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.h
+Target.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Map.cpp
+vector
+-
+iostream
+-
+Map.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Map.h
+Cross.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Map.h
+map
+-
+vector
+-
+../utils/tinyxml2.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.h
+Cross.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.h
+Edge.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Edge.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.cpp
+iostream
+-
+Target.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.h
+../utils/tinyxml2.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/TargetData.cpp
+TargetData.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/TargetData.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/TargetData.h
+../utils/tinyxml2.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.h
+Target.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.h
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.cpp
+tinyxml2.h
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.h
+new
+-
+stddef.h
+-
+stdarg.h
+-
+cstddef
+-
+cstdarg
+-
+
+D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+

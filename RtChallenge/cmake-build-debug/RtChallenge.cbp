@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RtChallenge"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RtChallenge">
+				<Option output="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/RtChallenge.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/backward"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 RtChallenge"/>
+					<CompileFile command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RtChallenge/fast">
+				<Option output="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/RtChallenge.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/backward"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed"/>
+					<Add directory="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/7.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 RtChallenge/fast"/>
+					<CompileFile command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/Programme/mingw-w64/x86_64-7.2.0-posix-seh-rt_v5-rev1/mingw64/bin/mingw32-make.exe -f &quot;D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/main.cpp">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.cpp">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Cross.h">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Edge.cpp">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Edge.h">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Map.cpp">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Map.h">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.cpp">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/Target.h">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/TargetData.cpp">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/model/TargetData.h">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.cpp">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/utils/tinyxml2.h">
+			<Option target="RtChallenge"/>
+		</Unit>
+		<Unit filename="D:/Projekte/IAV Hackerthon/runTimeChallange/RtChallenge/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
